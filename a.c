@@ -8,3 +8,7 @@ sy
 xgfj
 xfgjn
 xfg
+int main(){
+
+printf("Hey");
+}
